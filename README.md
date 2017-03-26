@@ -1,1 +1,1 @@
-# allergy-department
+# Allergy department
