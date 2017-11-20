@@ -11,7 +11,7 @@ body{
   font-family: 'OpenSans-Regular';
   src: url('../fonts/Open_Sans/OpenSans-Regular.ttf');
 }
-.header-top{
+.header-top {
   background:#38c2c5;
   padding: 1em 0em;
 }
